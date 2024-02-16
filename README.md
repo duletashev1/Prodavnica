@@ -1,7 +1,5 @@
 # greenHouse
 
-This project is a store simulation. You need to choose a quantity of vegetables and the program will calculate the amount you have to pay.
-If you have not selected a quantity and you press the ,,Dodadi", you will receive a message ,,Odberi kolicina"
 ![Screenshot (105)](https://github.com/duletashev1/Prodavnica/assets/116757605/ea56c108-beee-4276-a6db-97d126b86448)
 
 ![Screenshot (106)](https://github.com/duletashev1/Prodavnica/assets/116757605/8b5a4b79-df5b-4cd3-bb66-21aee2ad166a)
